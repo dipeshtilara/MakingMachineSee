@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 # Read your existing HTML file
-with open("computer_vision_class12_1.html", "r", encoding="utf-8") as f:
+with open("pixel_reconstruction_complete.html", "r", encoding="utf-8") as f:
     html_content = f.read()
 
 # Display full HTML inside Streamlit
